@@ -51,25 +51,13 @@
     <array name="wfcOperatorErrorAlertMessages" />
     <array name="wfcOperatorErrorNotificationMessages" />
     <string-array name="fingerprint_acquired_vendor">
-        <item>请再试一次</item>
         <item></item>
-        <item></item>
-        <item>请将手指完全覆盖指纹操作区域并按压</item>
-        <item></item>
-        <item>请将手指完全覆盖指纹操作区域并按压</item>
-        <item>请清洁指纹表面后再次尝试</item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item></item>
-        <item>请将手指完全覆盖指纹操作区域并按压</item>
-        <item>请将手指完全覆盖指纹操作区域并按压</item>
-        <item>手指移动过快,未能识别</item>
-        <item>请移动手指位置后,再次进行识别</item>
-        <item>请抬起手指后再次将手指放置于识别区域</item>
-        <item>请将您的手指在识别区域保持久一点</item>
-        <item></item>
-        <item></item>
+        <item>等待手指按下</item>
+        <item>手指按下</item>
+        <item>手指抬起</item>
+        <item>手指按下超时</item>
+        <item>请稍稍移动手指</item>
+        <item>请使用还没有录入的手指</item>
     </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">

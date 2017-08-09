@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>čekání na položení prstu</item>
+        <item>položte prst</item>
+        <item>zvedněte prst</item>
+        <item>Časový limit pro otisk prstu vypršel</item>
+        <item>upravte prosím polohu prstu</item>
+        <item>použijte prosím prst, který nebyl zaregistrován</item>
+    </string-array>
+</resources>

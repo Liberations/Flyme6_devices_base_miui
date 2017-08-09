@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Flyme முறைமை சேவை</string>
+    <string name="anr_activity_application">%2$s பதிலளிக்கவில்லை, மூட விரும்புகிறீர்களா?</string>
+    <string name="anr_activity_process">நடவடிக்கை %1$s பதிலளிக்கவில்லை, மூட விரும்புகிறீர்களா?</string>
+    <string name="anr_application_process">%1$s பதிலளிக்கவில்லை, நிறுத்தவா?</string>
+    <string name="anr_process">செயல்முறை %1$s பதிலளிக்கவில்லை, அதை மூட விரும்புகிறீர்களா?</string>
+    <string name="android_upgrading_title">முறைமை மேம்படுத்துகிறது…</string>
+    <string name="android_start_title">முறைமை தொடங்குகிறது…</string>
+    <string name="wifi_available_sign_in">WLAN-க்கு உள்நுழை</string>
+    <string name="sms_short_code_confirm_message">செய்தியை அனுப்பலாமா?</string>
+    <string name="usb_mtp_notification_title">கேபிள் வழியாகக் கோப்புகளை இடம் மாற்றலாம்</string>
+    <string name="usb_ptp_notification_title">PC வழியாக புகைப்படங்களை இடமாறலாம்</string>
+    <string name="usb_notification_message">பிற USB விருப்பங்களுக்குத் தொடவும்</string>
+    <string name="adb_active_notification_title">USB பிழைத்திருத்தம் இணைக்கப்பட்டது</string>
+    <string name="adb_active_notification_message">USB பிழைத்திருத்தத்தை முடக்குவதற்கு, தொடவும்.</string>
+    <string name="select_input_method">உள்ளீடு முறையைத் தேர்வு செய்யவும்</string>
+    <string name="configure_input_methods">உள்ளீட்டு பயன்முறையை அமை</string>
+</resources>

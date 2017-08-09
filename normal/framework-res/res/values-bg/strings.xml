@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_message">Докоснете, за да деактивирате отстраняването на грешки през USB.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Система Flyme</string>
+    <string name="anr_activity_application">%2$s не отвечает. Закрыть принудительно?</string>
+    <string name="anr_activity_process">%1$s не отвечает. Закрыть принудительно?</string>
+    <string name="anr_application_process">Приложение %1$s не отвечает. Закрыть принудительно?</string>
+    <string name="anr_process">Процесс %1$s не отвечает. Закрыть принудительно?</string>
+    <string name="android_upgrading_title">Система обновляется…</string>
+    <string name="android_start_title">Запуск системы…</string>
+    <string name="wifi_available_sign_in">Вход через WLAN</string>
+    <string name="sms_short_code_confirm_message">Отправить сообщение?</string>
+    <string name="usb_mtp_notification_title">Подключён как медианоситель</string>
+    <string name="usb_ptp_notification_title">Подключен как камера</string>
+    <string name="usb_notification_message">Нажать для настройки</string>
+    <string name="adb_active_notification_title">Отладка по USB включена</string>
+    <string name="adb_active_notification_message">Нажмите для отключения отладки по USB</string>
+    <string name="select_input_method">Выбрать способ ввода</string>
+    <string name="configure_input_methods">Установить способ ввода</string>
+</resources>

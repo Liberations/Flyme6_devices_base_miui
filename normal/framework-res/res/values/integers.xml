@@ -79,9 +79,9 @@
     <integer name="config_doublePressOnPowerBehavior">0</integer>
     <integer name="config_triplePressOnPowerBehavior">0</integer>
     <integer name="config_shortPressOnSleepBehavior">0</integer>
-    <integer name="config_criticalBatteryWarningLevel">5</integer>
-    <integer name="config_shutdownBatteryTemperature">680</integer>
-    <integer name="config_lowBatteryWarningLevel">10</integer>
+    <integer name="config_criticalBatteryWarningLevel">7</integer>
+    <integer name="config_shutdownBatteryTemperature">600</integer>
+    <integer name="config_lowBatteryWarningLevel">15</integer>
     <integer name="config_lowBatteryCloseWarningBump">5</integer>
     <integer name="config_defaultNotificationLedOn">500</integer>
     <integer name="config_defaultNotificationLedOff">2000</integer>

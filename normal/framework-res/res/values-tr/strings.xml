@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Flyme sistem hizmeti</string>
+    <string name="anr_activity_application">%2$s yanıt vermiyor,Kapatmak istiyor musunuz?</string>
+    <string name="anr_activity_process">Aktivite %1$s yanıt vermiyor, kapatmak istiyor musunuz?</string>
+    <string name="anr_application_process">%1$s yanıt vermiyor, kapatılsın mı?</string>
+    <string name="anr_process">İşlem %1$s yanıt vermiyor, Kapatmak istiyor musunuz?</string>
+    <string name="android_upgrading_title">Sistem yükseltiliyor…</string>
+    <string name="android_start_title">Sistem başlatılıyor…</string>
+    <string name="wifi_available_sign_in">"WLAN'da Oturum Aç"</string>
+    <string name="sms_short_code_confirm_message">Mesajı gönder?</string>
+    <string name="usb_mtp_notification_title">Kablo aracılığıyla dosyaları aktar</string>
+    <string name="usb_ptp_notification_title">Fotoğraflar PC ile aktarılabilir</string>
+    <string name="usb_notification_message">Diğer USB seçenekleri için dokunun</string>
+    <string name="adb_active_notification_title">USB hata ayıklaması bağlandı</string>
+    <string name="adb_active_notification_message">USB hata ayıklama özelliğini devre dışı bırakmak için dokunun.</string>
+    <string name="select_input_method">Giriş yöntemi seç</string>
+    <string name="configure_input_methods">Giriş yöntemini ayarla</string>
+</resources>

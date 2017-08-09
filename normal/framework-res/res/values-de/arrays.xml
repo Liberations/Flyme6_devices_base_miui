@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Warten auf Finger ablegen</item>
+        <item>Finger ablegen</item>
+        <item>Finger anheben</item>
+        <item>Zeitüberschreitung bei Finger ablegen</item>
+        <item>Bitte Fingerposition ändern</item>
+        <item>Bitte noch nicht gespeicherten Finger verwenden</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>फ़िंगर डाउन की प्रतीक्षा करें</item>
+        <item>फ़िंगर डाउन</item>
+        <item>फ़िंगर अप</item>
+        <item>फ़िंगर डाउन समयबाह्य</item>
+        <item>कृपया अपनी अंगुली एडजस्ट करें</item>
+        <item>कृपया दर्ज न की गई अंगुली रखें</item>
+    </string-array>
+</resources>

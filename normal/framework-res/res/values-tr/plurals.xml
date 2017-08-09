@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available">
+        <item quantity="other">Kullanılabilir WLAN</item>
+        <item quantity="one">Kullanılabilir WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">"Mevcut WLAN'ı görüntüle"</item>
+        <item quantity="one">"Mevcut WLAN'ı görüntüle"</item>
+    </plurals>
+</resources>

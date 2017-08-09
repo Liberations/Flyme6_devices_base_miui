@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>המתן</item>
+        <item>אצבע על הקורא</item>
+        <item>אצבע למעלה</item>
+        <item>זמן לסריקת טביעת אצבע</item>
+        <item>בבקשה כוון את האצבע שלך</item>
+        <item>סרוק את האצבע שאיננה רשומה</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>আঙ্গুল নিচে রেখে অপেক্ষা করুন</item>
+        <item>finger down</item>
+        <item>finger up</item>
+        <item>finger down টাইমআউট</item>
+        <item>অনুগ্রহ করে আপনার আঙ্গুল সমন্বয় করুন</item>
+        <item>নিবন্ধিত নয় আঙ্গুলটি রাখুন</item>
+    </string-array>
+</resources>

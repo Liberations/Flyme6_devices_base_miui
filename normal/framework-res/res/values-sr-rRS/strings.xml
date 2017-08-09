@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sms_short_code_confirm_message">Sigurno želite da pošaljete ovu poruku?</string>
+    <string name="adb_active_notification_message">Tapnite za onemogućavanje USB otklanjanje greške.</string>
+    <string name="select_input_method">Izaberi metodu unosa</string>
+    <string name="configure_input_methods">Podesi metodu unosa</string>
+</resources>

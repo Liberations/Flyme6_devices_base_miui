@@ -615,6 +615,7 @@
     <public type="attr" name="imeOptions" id="0x01010264" />
     <public type="attr" name="imeActionLabel" id="0x01010265" />
     <public type="attr" name="imeActionId" id="0x01010266" />
+    <public type="attr" name="APKTOOL_DUMMY_267" id="0x01010267" />
     <public type="attr" name="imeExtractEnterAnimation" id="0x01010268" />
     <public type="attr" name="imeExtractExitAnimation" id="0x01010269" />
     <public type="attr" name="tension" id="0x0101026a" />
@@ -935,6 +936,7 @@
     <public type="attr" name="requiresFadingEdge" id="0x010103a5" />
     <public type="attr" name="publicKey" id="0x010103a6" />
     <public type="attr" name="parentActivityName" id="0x010103a7" />
+    <public type="attr" name="APKTOOL_DUMMY_3a8" id="0x010103a8" />
     <public type="attr" name="isolatedProcess" id="0x010103a9" />
     <public type="attr" name="importantForAccessibility" id="0x010103aa" />
     <public type="attr" name="keyboardLayout" id="0x010103ab" />
@@ -961,6 +963,7 @@
     <public type="attr" name="presentationTheme" id="0x010103c0" />
     <public type="attr" name="subtypeId" id="0x010103c1" />
     <public type="attr" name="initialKeyguardLayout" id="0x010103c2" />
+    <public type="attr" name="APKTOOL_DUMMY_3c3" id="0x010103c3" />
     <public type="attr" name="widgetCategory" id="0x010103c4" />
     <public type="attr" name="permissionGroupFlags" id="0x010103c5" />
     <public type="attr" name="labelFor" id="0x010103c6" />
@@ -1035,6 +1038,33 @@
     <public type="attr" name="strokeLineCap" id="0x0101040b" />
     <public type="attr" name="strokeLineJoin" id="0x0101040c" />
     <public type="attr" name="strokeMiterLimit" id="0x0101040d" />
+    <public type="attr" name="APKTOOL_DUMMY_40e" id="0x0101040e" />
+    <public type="attr" name="APKTOOL_DUMMY_40f" id="0x0101040f" />
+    <public type="attr" name="APKTOOL_DUMMY_410" id="0x01010410" />
+    <public type="attr" name="APKTOOL_DUMMY_411" id="0x01010411" />
+    <public type="attr" name="APKTOOL_DUMMY_412" id="0x01010412" />
+    <public type="attr" name="APKTOOL_DUMMY_413" id="0x01010413" />
+    <public type="attr" name="APKTOOL_DUMMY_414" id="0x01010414" />
+    <public type="attr" name="APKTOOL_DUMMY_415" id="0x01010415" />
+    <public type="attr" name="APKTOOL_DUMMY_416" id="0x01010416" />
+    <public type="attr" name="APKTOOL_DUMMY_417" id="0x01010417" />
+    <public type="attr" name="APKTOOL_DUMMY_418" id="0x01010418" />
+    <public type="attr" name="APKTOOL_DUMMY_419" id="0x01010419" />
+    <public type="attr" name="APKTOOL_DUMMY_41a" id="0x0101041a" />
+    <public type="attr" name="APKTOOL_DUMMY_41b" id="0x0101041b" />
+    <public type="attr" name="APKTOOL_DUMMY_41c" id="0x0101041c" />
+    <public type="attr" name="APKTOOL_DUMMY_41d" id="0x0101041d" />
+    <public type="attr" name="APKTOOL_DUMMY_41e" id="0x0101041e" />
+    <public type="attr" name="APKTOOL_DUMMY_41f" id="0x0101041f" />
+    <public type="attr" name="APKTOOL_DUMMY_420" id="0x01010420" />
+    <public type="attr" name="APKTOOL_DUMMY_421" id="0x01010421" />
+    <public type="attr" name="APKTOOL_DUMMY_422" id="0x01010422" />
+    <public type="attr" name="APKTOOL_DUMMY_423" id="0x01010423" />
+    <public type="attr" name="APKTOOL_DUMMY_424" id="0x01010424" />
+    <public type="attr" name="APKTOOL_DUMMY_425" id="0x01010425" />
+    <public type="attr" name="APKTOOL_DUMMY_426" id="0x01010426" />
+    <public type="attr" name="APKTOOL_DUMMY_427" id="0x01010427" />
+    <public type="attr" name="APKTOOL_DUMMY_428" id="0x01010428" />
     <public type="attr" name="colorControlNormal" id="0x01010429" />
     <public type="attr" name="colorControlActivated" id="0x0101042a" />
     <public type="attr" name="colorButtonNormal" id="0x0101042b" />
@@ -1236,36 +1266,6 @@
     <public type="attr" name="showForAllUsers" id="0x010104ef" />
     <public type="attr" name="supportsAssist" id="0x010104f0" />
     <public type="attr" name="supportsLaunchVoiceAssistFromKeyguard" id="0x010104f1" />
-    <public type="attr" name="APKTOOL_DUMMY_267" id="0x01010267" />
-    <public type="attr" name="APKTOOL_DUMMY_3a8" id="0x010103a8" />
-    <public type="attr" name="APKTOOL_DUMMY_3c3" id="0x010103c3" />
-    <public type="attr" name="APKTOOL_DUMMY_40e" id="0x0101040e" />
-    <public type="attr" name="APKTOOL_DUMMY_40f" id="0x0101040f" />
-    <public type="attr" name="APKTOOL_DUMMY_410" id="0x01010410" />
-    <public type="attr" name="APKTOOL_DUMMY_411" id="0x01010411" />
-    <public type="attr" name="APKTOOL_DUMMY_412" id="0x01010412" />
-    <public type="attr" name="APKTOOL_DUMMY_413" id="0x01010413" />
-    <public type="attr" name="APKTOOL_DUMMY_414" id="0x01010414" />
-    <public type="attr" name="APKTOOL_DUMMY_415" id="0x01010415" />
-    <public type="attr" name="APKTOOL_DUMMY_416" id="0x01010416" />
-    <public type="attr" name="APKTOOL_DUMMY_417" id="0x01010417" />
-    <public type="attr" name="APKTOOL_DUMMY_418" id="0x01010418" />
-    <public type="attr" name="APKTOOL_DUMMY_419" id="0x01010419" />
-    <public type="attr" name="APKTOOL_DUMMY_41a" id="0x0101041a" />
-    <public type="attr" name="APKTOOL_DUMMY_41b" id="0x0101041b" />
-    <public type="attr" name="APKTOOL_DUMMY_41c" id="0x0101041c" />
-    <public type="attr" name="APKTOOL_DUMMY_41d" id="0x0101041d" />
-    <public type="attr" name="APKTOOL_DUMMY_41e" id="0x0101041e" />
-    <public type="attr" name="APKTOOL_DUMMY_41f" id="0x0101041f" />
-    <public type="attr" name="APKTOOL_DUMMY_420" id="0x01010420" />
-    <public type="attr" name="APKTOOL_DUMMY_421" id="0x01010421" />
-    <public type="attr" name="APKTOOL_DUMMY_422" id="0x01010422" />
-    <public type="attr" name="APKTOOL_DUMMY_423" id="0x01010423" />
-    <public type="attr" name="APKTOOL_DUMMY_424" id="0x01010424" />
-    <public type="attr" name="APKTOOL_DUMMY_425" id="0x01010425" />
-    <public type="attr" name="APKTOOL_DUMMY_426" id="0x01010426" />
-    <public type="attr" name="APKTOOL_DUMMY_427" id="0x01010427" />
-    <public type="attr" name="APKTOOL_DUMMY_428" id="0x01010428" />
     <public type="id" name="background" id="0x01020000" />
     <public type="id" name="checkbox" id="0x01020001" />
     <public type="id" name="content" id="0x01020002" />
@@ -5547,12 +5547,17 @@
     <public type="dimen" name="chooser_grid_padding" id="0x010500a3" />
     <public type="dimen" name="time_picker_column_start_material" id="0x010500a4" />
     <public type="dimen" name="time_picker_column_end_material" id="0x010500a5" />
+    <public type="dimen" name="APKTOOL_DUMMY_a6" id="0x010500a6" />
     <public type="dimen" name="timepicker_text_inset_inner" id="0x010500a9" />
     <public type="dimen" name="timepicker_radial_picker_dimen" id="0x010500aa" />
     <public type="dimen" name="floating_window_margin_left" id="0x010500ab" />
     <public type="dimen" name="floating_window_margin_top" id="0x010500ac" />
     <public type="dimen" name="floating_window_margin_right" id="0x010500ad" />
     <public type="dimen" name="floating_window_margin_bottom" id="0x010500ae" />
+    <public type="dimen" name="APKTOOL_DUMMY_af" id="0x010500af" />
+    <public type="dimen" name="APKTOOL_DUMMY_b0" id="0x010500b0" />
+    <public type="dimen" name="APKTOOL_DUMMY_b1" id="0x010500b1" />
+    <public type="dimen" name="APKTOOL_DUMMY_b2" id="0x010500b2" />
     <public type="dimen" name="disabled_alpha_leanback_formwizard" id="0x010500b3" />
     <public type="dimen" name="leanback_setup_alpha_animiation_max_opacity" id="0x010500b4" />
     <public type="dimen" name="leanback_setup_alpha_animiation_min_opacity" id="0x010500b5" />
@@ -5689,11 +5694,6 @@
     <public type="dimen" name="glowpadview_glow_radius" id="0x01050138" />
     <public type="dimen" name="glowpadview_inner_radius" id="0x01050139" />
     <public type="dimen" name="system_bar_height" id="0x0105013a" />
-    <public type="dimen" name="APKTOOL_DUMMY_a6" id="0x010500a6" />
-    <public type="dimen" name="APKTOOL_DUMMY_af" id="0x010500af" />
-    <public type="dimen" name="APKTOOL_DUMMY_b0" id="0x010500b0" />
-    <public type="dimen" name="APKTOOL_DUMMY_b1" id="0x010500b1" />
-    <public type="dimen" name="APKTOOL_DUMMY_b2" id="0x010500b2" />
     <public type="dimen" name="kg_emergency_button_shift" id="0x010500a7" />
     <public type="dimen" name="timepicker_left_side_width" id="0x010500a8" />
     <public type="color" name="darker_gray" id="0x01060000" />
@@ -6103,9 +6103,9 @@
     <public type="drawable" name="platlogo" id="0x01080548" />
     <public type="drawable" name="platlogo_m" id="0x01080549" />
     <public type="drawable" name="stat_sys_adb" id="0x01080653" />
+    <public type="drawable" name="APKTOOL_DUMMY_6bf" id="0x010806bf" />
     <public type="drawable" name="text_cursor_holo_dark" id="0x010806f8" />
     <public type="drawable" name="text_cursor_holo_light" id="0x010806f9" />
-    <public type="drawable" name="APKTOOL_DUMMY_6bf" id="0x010806bf" />
     <public type="drawable" name="APKTOOL_DUMMY_744" id="0x01080744" />
     <public type="drawable" name="APKTOOL_DUMMY_745" id="0x01080745" />
     <public type="drawable" name="APKTOOL_DUMMY_746" id="0x01080746" />
@@ -6641,6 +6641,13 @@
     <public type="drawable" name="textfield_bg_focused_holo_dark" id="0x0108070e" />
     <public type="drawable" name="textfield_longpress_holo" id="0x0108071b" />
     <public type="drawable" name="textfield_pressed_holo" id="0x01080726" />
+    <public type="drawable" name="sym_def_app_icon" id="0x01080093" />
+    <public type="drawable" name="toast_frame" id="0x01080096" />
+    <public type="drawable" name="ic_launcher_android" id="0x0108035d" />
+    <public type="drawable" name="text_select_handle_left_mtrl_alpha" id="0x01080700" />
+    <public type="drawable" name="text_select_handle_middle_mtrl_alpha" id="0x01080703" />
+    <public type="drawable" name="text_select_handle_right_mtrl_alpha" id="0x01080706" />
+    <public type="drawable" name="progress_mtrl_alpha" id="0x01080762" />
     <public type="drawable" name="arrow_down_float" id="0x01080002" />
     <public type="drawable" name="arrow_up_float" id="0x01080003" />
     <public type="drawable" name="btn_star_big_off" id="0x0108000b" />
@@ -6945,7 +6952,6 @@
     <public type="drawable" name="ic_jog_dial_sound_on" id="0x0108035a" />
     <public type="drawable" name="ic_jog_dial_unlock" id="0x0108035b" />
     <public type="drawable" name="ic_jog_dial_vibrate_on" id="0x0108035c" />
-    <public type="drawable" name="ic_launcher_android" id="0x0108035d" />
     <public type="drawable" name="ic_lock_ringer_off_alpha" id="0x0108036a" />
     <public type="drawable" name="ic_lock_ringer_on_alpha" id="0x0108036b" />
     <public type="drawable" name="ic_lock_silent_mode_vibrate" id="0x0108036c" />
@@ -7262,8 +7268,6 @@
     <public type="drawable" name="presence_online" id="0x0108006b" />
     <public type="drawable" name="stat_notify_more" id="0x01080079" />
     <public type="drawable" name="stat_sys_phone_call" id="0x01080084" />
-    <public type="drawable" name="sym_def_app_icon" id="0x01080093" />
-    <public type="drawable" name="toast_frame" id="0x01080096" />
     <public type="drawable" name="ic_menu_sort_alphabetically" id="0x0108009c" />
     <public type="drawable" name="ic_menu_sort_by_size" id="0x0108009d" />
     <public type="drawable" name="ab_bottom_solid_dark_holo" id="0x0108009e" />
@@ -7944,11 +7948,8 @@
     <public type="drawable" name="text_edit_paste_window" id="0x010806fb" />
     <public type="drawable" name="text_edit_suggestions_window" id="0x010806fd" />
     <public type="drawable" name="text_select_handle_left" id="0x010806fe" />
-    <public type="drawable" name="text_select_handle_left_mtrl_alpha" id="0x01080700" />
     <public type="drawable" name="text_select_handle_middle" id="0x01080701" />
-    <public type="drawable" name="text_select_handle_middle_mtrl_alpha" id="0x01080703" />
     <public type="drawable" name="text_select_handle_right" id="0x01080704" />
-    <public type="drawable" name="text_select_handle_right_mtrl_alpha" id="0x01080706" />
     <public type="drawable" name="textfield_activated_holo_dark" id="0x01080707" />
     <public type="drawable" name="textfield_activated_holo_light" id="0x01080708" />
     <public type="drawable" name="textfield_activated_mtrl_alpha" id="0x01080709" />

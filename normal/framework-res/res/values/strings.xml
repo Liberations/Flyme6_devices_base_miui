@@ -66,7 +66,7 @@
     <string name="config_wimaxServiceClassname" />
     <string name="config_wimaxStateTrackerClassname" />
     <string name="config_dreamsDefaultComponent">com.google.android.deskclock/com.android.deskclock.Screensaver</string>
-    <string name="config_dozeComponent">com.android.systemui/com.android.systemui.doze.DozeService</string>
+    <string name="config_dozeComponent" />
     <string name="config_ethernet_tcp_buffers">524288,1048576,3145728,524288,1048576,2097152</string>
     <string name="config_wifi_tcp_buffers">524288,1048576,2097152,262144,524288,1048576</string>
     <string name="config_chooseAccountActivity">android/android.accounts.ChooseAccountActivity</string>
@@ -78,9 +78,9 @@
     <string name="config_appsAuthorizedForSharedAccounts">;com.android.settings;</string>
     <string name="config_defaultNetworkScorerPackageName" />
     <string name="config_persistentDataPackageName">com.google.android.gms</string>
-    <string name="config_webViewPackageName">com.google.android.webview</string>
+    <string name="config_webViewPackageName">com.android.webview</string>
     <string name="prohibit_manual_network_selection_in_gobal_mode">false</string>
-    <string name="config_keyguardComponent">com.android.keyguard/com.android.keyguard.KeyguardService</string>
+    <string name="config_keyguardComponent">com.android.systemui/com.android.systemui.keyguard.KeyguardService</string>
     <string name="config_forceVoiceInteractionServicePackage" />
     <string name="config_radio_access_family" />
     <string name="config_cameraLaunchGestureSensorStringType" />
@@ -301,7 +301,7 @@
     <string name="global_action_voice_assist">Voice Assist</string>
     <string name="global_action_lockdown">Lock now</string>
     <string name="safeMode">Safe mode</string>
-    <string name="android_system_label">Android System</string>
+    <string name="android_system_label">System service</string>
     <string name="user_owner_label">Personal</string>
     <string name="managed_profile_label">Work</string>
     <string name="permgrouplab_contacts">Contacts</string>
@@ -891,16 +891,10 @@ Are you sure you want to navigate away from this page?"</string>
     <string name="aerr_application">Unfortunately, %1$s has stopped.</string>
     <string name="aerr_process">Unfortunately, the process %1$s has stopped.</string>
     <string name="anr_title" />
-    <string name="anr_activity_application">"%2$s isn't responding.
-
-Do you want to close it?"</string>
-    <string name="anr_activity_process">"Activity %1$s isn't responding.
-
-Do you want to close it?"</string>
-    <string name="anr_application_process">"%1$s isn't responding. Do you want to close it?"</string>
-    <string name="anr_process">"Process %1$s isn't responding.
-
-Do you want to close it?"</string>
+    <string name="anr_activity_application">"%2$s isn't responding,Do you want to close it?"</string>
+    <string name="anr_activity_process">"Activity %1$s isn't responding, do you want to close it?"</string>
+    <string name="anr_application_process">%1$s is not responding, shut it down?</string>
+    <string name="anr_process">"Process %1$s isn't responding,Do you want to close it?"</string>
     <string name="force_close">OK</string>
     <string name="report">Report</string>
     <string name="wait">Wait</string>
@@ -915,8 +909,8 @@ Do you want to close it?"</string>
     <string name="screen_compat_mode_hint">Re-enable this in System settings > Apps > Downloaded.</string>
     <string name="smv_application">The app %1$s (process %2$s) has violated its self-enforced StrictMode policy.</string>
     <string name="smv_process">The process %1$s has has violated its self-enforced StrictMode policy.</string>
-    <string name="android_upgrading_title">Android is upgrading…</string>
-    <string name="android_start_title">Android is starting…</string>
+    <string name="android_upgrading_title">System is upgrading…</string>
+    <string name="android_start_title">System is starting…</string>
     <string name="android_upgrading_fstrim">Optimizing storage.</string>
     <string name="android_upgrading_apk">Optimizing app %1$d of %2$d.</string>
     <string name="android_preparing_apk">Preparing %1$s.</string>
@@ -954,7 +948,7 @@ Do you want to close it?"</string>
     <string name="ringtone_silent">None</string>
     <string name="ringtone_picker_title">Ringtones</string>
     <string name="ringtone_unknown">Unknown ringtone</string>
-    <string name="wifi_available_sign_in">Sign in to WLAN network</string>
+    <string name="wifi_available_sign_in">Login to WLAN</string>
     <string name="network_available_sign_in">Sign in to network</string>
     <string name="network_available_sign_in_detailed">%1$s</string>
     <string name="wifi_no_internet">WLAN has no Internet access</string>
@@ -984,7 +978,7 @@ Do you want to close it?"</string>
     <string name="sms_control_message">&lt;b>%1$s&lt;/b> is sending a large number of SMS messages. Do you want to allow this app to continue sending messages?</string>
     <string name="sms_control_yes">Allow</string>
     <string name="sms_control_no">Deny</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> would like to send a message to &lt;b>%2$s&lt;/b>.</string>
+    <string name="sms_short_code_confirm_message">Sent the message?</string>
     <string name="sms_short_code_details">This <b>may cause charges</b> on your mobile account.</string>
     <string name="sms_premium_short_code_details"><b>This will cause charges on your mobile account.</b></string>
     <string name="sms_short_code_confirm_allow">Send</string>
@@ -1025,16 +1019,16 @@ Do you want to close it?"</string>
     <string name="dlg_error_title">USB operation unsuccessful</string>
     <string name="dlg_ok">OK</string>
     <string name="usb_charging_notification_title">USB for charging</string>
-    <string name="usb_mtp_notification_title">USB for file transfer</string>
-    <string name="usb_ptp_notification_title">USB for photo transfer</string>
+    <string name="usb_mtp_notification_title">Transfer files via cable</string>
+    <string name="usb_ptp_notification_title">Photos can be transferred via PC</string>
     <string name="usb_midi_notification_title">USB for MIDI</string>
     <string name="usb_accessory_notification_title">Connected to a USB accessory</string>
-    <string name="usb_notification_message">Touch for more options.</string>
+    <string name="usb_notification_message">Touch for other USB options</string>
     <string name="adb_active_notification_title">USB debugging connected</string>
-    <string name="adb_active_notification_message">Touch to disable USB debugging.</string>
+    <string name="adb_active_notification_message">Touch to disable USB debugging</string>
     <string name="locale_replacement" />
-    <string name="select_input_method">Change keyboard</string>
-    <string name="configure_input_methods">Choose keyboards</string>
+    <string name="select_input_method">Select input method</string>
+    <string name="configure_input_methods">Set up input method</string>
     <string name="show_ime">Show input method</string>
     <string name="hardware">Hardware</string>
     <string name="select_keyboard_layout_notification_title">Select keyboard layout</string>

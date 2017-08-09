@@ -46,7 +46,15 @@
     </integer-array>
     <array name="wfcOperatorErrorAlertMessages" />
     <array name="wfcOperatorErrorNotificationMessages" />
-    <array name="fingerprint_acquired_vendor" />
+    <string-array name="fingerprint_acquired_vendor">
+        <item>無</item>
+        <item>等待手指按下</item>
+        <item>手指按下</item>
+        <item>手指擡起</item>
+        <item>手指按下逾時</item>
+        <item>請稍稍移動手指</item>
+        <item>請使用尚未錄入的手指</item>
+    </string-array>
     <array name="fingerprint_error_vendor" />
     <string-array name="imAddressTypes">
         <item>住家</item>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Проведiть палець вниз</item>
+        <item>палець донизу</item>
+        <item>палець вгору</item>
+        <item>Час считування вiдбитку вийшов</item>
+        <item>будь ласка, налаштуйте відбиток</item>
+        <item>поставте палець не натискаючи</item>
+    </string-array>
+</resources>

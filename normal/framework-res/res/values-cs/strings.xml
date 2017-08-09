@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Systémová služba Flyme</string>
+    <string name="anr_activity_application">%2$s nereaguje. Chcete ji uzavřít?</string>
+    <string name="anr_activity_process">Aktivita %1$s nereaguje, chcete ji uzavřít?</string>
+    <string name="anr_application_process">%1$s nereaguje, vypnout?</string>
+    <string name="anr_process">Proces %1$s nereaguje. Chcete jej uzavřít?</string>
+    <string name="android_upgrading_title">Probíhá upgrade systému…</string>
+    <string name="android_start_title">Systém se spouští…</string>
+    <string name="wifi_available_sign_in">Přihlásit k WLAN</string>
+    <string name="sms_short_code_confirm_message">Odeslat zprávu?</string>
+    <string name="usb_mtp_notification_title">Přenést soubory přes kabel</string>
+    <string name="usb_ptp_notification_title">Přenést fotografie do PC</string>
+    <string name="usb_notification_message">Dotykem zobrazíte další možnosti rozhraní USB.</string>
+    <string name="adb_active_notification_title">Ladění přes rozhraní USB připojeno</string>
+    <string name="adb_active_notification_message">Dotykem zakážete ladění přes rozhraní USB.</string>
+    <string name="select_input_method">Vyberte metodu zadávání</string>
+    <string name="configure_input_methods">Nastavit metodu zadávání</string>
+</resources>

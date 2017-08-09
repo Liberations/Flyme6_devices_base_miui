@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>รอการวางนิ้ว</item>
+        <item>วางนิ้ว</item>
+        <item>ยกนิ้วขึ้น</item>
+        <item>หมดเวลาวางนิ้ว</item>
+        <item>โปรดปรับนิ้วของคุณ</item>
+        <item>โปรดวางนิ้วที่ยังไม่ได้ลงทะเบียน</item>
+    </string-array>
+</resources>

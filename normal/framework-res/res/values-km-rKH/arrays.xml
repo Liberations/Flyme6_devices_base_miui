@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>រង់ចាំរុញ​ម្រាមដៃចុះក្រោម</item>
+        <item>រុញម្រាម​ចុះក្រោម</item>
+        <item>រុញម្រាមឡើងលើ</item>
+        <item>អស់ពេល​រុញ​ម្រាម​ចុះក្រោម​</item>
+        <item>សូម​សឺរ៉េ​ម្រាមដៃ​របស់អ្នក</item>
+        <item>សូមដាក់ម្រាមដៃ​ តែ​កុំចុះឈ្មោះ</item>
+    </string-array>
+</resources>

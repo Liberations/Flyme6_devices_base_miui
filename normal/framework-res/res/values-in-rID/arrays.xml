@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>tunggu jari ke bawah</item>
+        <item>jari ke bawah</item>
+        <item>jari ke atas</item>
+        <item>batas waktu jari ke bawah</item>
+        <item>harap sesuaikan jari Anda</item>
+        <item>harap letakkan jari yang belum didaftarkan</item>
+    </string-array>
+</resources>

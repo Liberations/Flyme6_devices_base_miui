@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>περιμένετε με το δάκτυλο κάτω</item>
+        <item>δάκτυλο κάτω</item>
+        <item>δάκτυλο πάνω</item>
+        <item>λήξη χρόνου δακτύλου κάτω</item>
+        <item>ρυθμίστε τη θέση του δακτύλου</item>
+        <item>τοποθετήστε το δάκτυλο όχι διπλωμένο</item>
+    </string-array>
+</resources>

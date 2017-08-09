@@ -21,12 +21,12 @@
         <item quantity="one">1 小時</item>
     </plurals>
     <plurals name="wifi_available">
-        <item quantity="other">有多個可用的 WLAN 網路</item>
-        <item quantity="one">有一個可用的 WLAN 網路</item>
+        <item quantity="other">有可用的无线网络</item>
+        <item quantity="one">有可用的无线网络</item>
     </plurals>
     <plurals name="wifi_available_detailed">
-        <item quantity="other">有多個可用的開放 WLAN 網路</item>
-        <item quantity="one">有多個可用的開放 WLAN 網路</item>
+        <item quantity="other">點擊連接網絡</item>
+        <item quantity="one">點擊連接網絡</item>
     </plurals>
     <plurals name="matches_found">
         <item quantity="other">第 %1$d 個相符項目 (共 %2$d 個)</item>

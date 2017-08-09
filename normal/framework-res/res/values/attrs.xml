@@ -68,7 +68,6 @@
     </attr>
     <attr name="configChanges">
         <flag name="locale" value="0x00000004" />
-        <flag name="fontChange" value="0x00008000" />
         <flag name="fontScale" value="0x40000000" />
         <flag name="keyboard" value="0x00000010" />
         <flag name="keyboardHidden" value="0x00000020" />
@@ -80,9 +79,10 @@
         <flag name="screenLayout" value="0x00000100" />
         <flag name="screenSize" value="0x00000400" />
         <flag name="smallestScreenSize" value="0x00000800" />
-        <flag name="themeChange" value="0x00004000" />
         <flag name="touchscreen" value="0x00000008" />
         <flag name="uiMode" value="0x00000200" />
+        <flag name="fontChange" value="0x00008000" />
+        <flag name="themeChange" value="0x00004000" />
     </attr>
     <attr name="description" format="reference" />
     <attr name="targetPackage" format="string" />
@@ -1259,6 +1259,7 @@
     </attr>
     <attr name="imeActionLabel" format="string" />
     <attr name="imeActionId" format="integer" />
+    <item type="attr" name="APKTOOL_DUMMY_267">false</item>
     <attr name="imeExtractEnterAnimation" format="reference" />
     <attr name="imeExtractExitAnimation" format="reference" />
     <attr name="tension" format="float" />
@@ -1714,6 +1715,7 @@
     </attr>
     <attr name="publicKey" format="string" />
     <attr name="parentActivityName" format="string" />
+    <item type="attr" name="APKTOOL_DUMMY_3a8">false</item>
     <attr name="isolatedProcess" format="boolean" />
     <attr name="importantForAccessibility" format="integer">
         <enum name="auto" value="0" />
@@ -1770,6 +1772,7 @@
     <attr name="presentationTheme" format="reference" />
     <attr name="subtypeId" format="integer" />
     <attr name="initialKeyguardLayout" format="reference" />
+    <item type="attr" name="APKTOOL_DUMMY_3c3">false</item>
     <attr name="widgetCategory" format="integer">
         <flag name="home_screen" value="0x00000001" />
         <flag name="keyguard" value="0x00000002" />
@@ -1882,6 +1885,33 @@
         <enum name="miter" value="0" />
     </attr>
     <attr name="strokeMiterLimit" format="float" />
+    <item type="attr" name="APKTOOL_DUMMY_40e">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_40f">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_410">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_411">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_412">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_413">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_414">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_415">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_416">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_417">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_418">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_419">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_41a">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_41b">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_41c">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_41d">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_41e">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_41f">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_420">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_421">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_422">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_423">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_424">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_425">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_426">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_427">false</item>
+    <item type="attr" name="APKTOOL_DUMMY_428">false</item>
     <attr name="colorControlNormal" format="color" />
     <attr name="colorControlActivated" format="color" />
     <attr name="colorButtonNormal" format="color" />
@@ -2240,34 +2270,4 @@
     <attr name="showForAllUsers" format="boolean" />
     <attr name="supportsAssist" format="boolean" />
     <attr name="supportsLaunchVoiceAssistFromKeyguard" format="boolean" />
-    <item type="attr" name="APKTOOL_DUMMY_267">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_3a8">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_3c3">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_40e">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_40f">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_410">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_411">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_412">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_413">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_414">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_415">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_416">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_417">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_418">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_419">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_41a">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_41b">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_41c">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_41d">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_41e">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_41f">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_420">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_421">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_422">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_423">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_424">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_425">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_426">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_427">false</item>
-    <item type="attr" name="APKTOOL_DUMMY_428">false</item>
 </resources>

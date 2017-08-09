@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈကို ေစာင့္ပါ</item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈ</item>
+        <item>လက္ေခ်ာင္းကို မတင္ပါ</item>
+        <item>လက္ေခ်ာင္းေနရာခ်မႈ အခ်ိန္ကုန္ပါၿပီ</item>
+        <item>ေက်းဇူးျပဳ၍ သင္၏လက္ေခ်ာင္းကို ခ်ိန္ညႇိပါ</item>
+        <item>ေက်းဇူးျပဳ၍ လက္ေခ်ာင္းကိုေနရာခ်ပါ ၎ကိုစာရင္းမသြင္းထားပါ</item>
+    </string-array>
+</resources>

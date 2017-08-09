@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Usługa systemowa Flyme</string>
+    <string name="anr_activity_application">Aplikacja %2$s nie odpowiada. Zamknąć?</string>
+    <string name="anr_activity_process">Działanie %1$s nie odpowiada. Zakończyć?</string>
+    <string name="anr_application_process">Aplikacja %1$s nie odpowiada. Zamknąć?</string>
+    <string name="anr_process">Proces %1$s nie odpowiada, Zakończyć?</string>
+    <string name="android_upgrading_title">Trwa aktualizacja systemu...</string>
+    <string name="android_start_title">Trwa uruchamianie systemu...</string>
+    <string name="wifi_available_sign_in">Zaloguj się do sieci WLAN</string>
+    <string name="sms_short_code_confirm_message">Wysłać wiadomość?</string>
+    <string name="usb_mtp_notification_title">Przesyłaj pliki przewodowo</string>
+    <string name="usb_ptp_notification_title">Transfer zdjęć na komputerze</string>
+    <string name="usb_notification_message">Dotknij, aby wyświetlić pozostałe opcje USB</string>
+    <string name="adb_active_notification_title">Podłączono moduł debugowania USB</string>
+    <string name="adb_active_notification_message">Dotknij, aby wyłączyć debugowanie USB.</string>
+    <string name="select_input_method">Wybierz metodę wprowadzania</string>
+    <string name="configure_input_methods">Skonfiguruj metodę wpisywania</string>
+</resources>

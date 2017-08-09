@@ -214,5 +214,8 @@
     <attr name="cantSaveState" format="boolean" />
     <attr name="primaryUserOnly" format="boolean" />
     <attr name="needAccessControl" format="boolean" />
-  
+    <attr name="layout_maxHeight" format="dimension">
+        <enum name="unbounded" value="-1" />
+    </attr>
+    <attr name="layout_minHeight" format="dimension" />
 </resources>

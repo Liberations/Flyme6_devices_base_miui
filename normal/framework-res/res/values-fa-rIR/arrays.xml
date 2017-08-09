@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>انگشت منتظر باشد</item>
+        <item>انگشت به پایین</item>
+        <item>انگشت به بالا</item>
+        <item>وقفه پايين كشيدن انگشت</item>
+        <item>لطفا انگشت خود را تنظیم کنید</item>
+        <item>لطفا انگشت ثبت نام نشده را بگذارید</item>
+    </string-array>
+</resources>

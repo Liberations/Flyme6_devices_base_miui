@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Flyme rendszerszolgáltatás</string>
+    <string name="anr_activity_application">%2$s nemválaszol, be akarja zárni?</string>
+    <string name="anr_activity_process">Tevékenység %1$s nemválaszol, kívánja bezárni?</string>
+    <string name="anr_application_process">%1$s nem válaszol, bezárja?</string>
+    <string name="anr_process">A folyamat: %1$s nemválaszol, be akarja zárni?</string>
+    <string name="android_upgrading_title">A rendszer frissítése zajlik…</string>
+    <string name="android_start_title">Rendszer indul…</string>
+    <string name="wifi_available_sign_in">Bejelentkezés a WLAN-ba</string>
+    <string name="sms_short_code_confirm_message">Elküldi az üzenetet?</string>
+    <string name="usb_mtp_notification_title">Fájlok átvitele kábelen</string>
+    <string name="usb_ptp_notification_title">Fényképek átvitele számítógépre</string>
+    <string name="usb_notification_message">Érintse meg a további USB-opciókért</string>
+    <string name="adb_active_notification_title">USB hibakereső csatlakoztatva</string>
+    <string name="adb_active_notification_message">Érintse meg az USB hibakeresés kikapcsolásához.</string>
+    <string name="select_input_method">Beviteli mód kiválasztása</string>
+    <string name="configure_input_methods">Beviteli mód beállítása</string>
+</resources>

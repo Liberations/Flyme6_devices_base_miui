@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adb_active_notification_message">Dodirnite da biste onemogućili rješavanje programske pogreške na USB-u.</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>attente doigt vers le bas</item>
+        <item>doigt vers le bas</item>
+        <item>doigt vers le haut</item>
+        <item>délai de doigt vers le bas dépassé</item>
+        <item>veuillez ajuster votre doigt</item>
+        <item>Veuillez placer le doigt non enregistré</item>
+    </string-array>
+</resources>

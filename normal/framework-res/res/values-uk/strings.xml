@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Flyme система обслуговування</string>
+    <string name="anr_activity_application">%2$s не відповідати Хочете закрити його?</string>
+    <string name="anr_activity_process">Активнiсть %1$s не відповідае, ви хочете, закрити його?</string>
+    <string name="anr_application_process">%1$s не відповідає, вимкнути його?</string>
+    <string name="anr_process">"Процес %1$s isn't responding,Do you want to close it?"</string>
+    <string name="android_upgrading_title">System is upgrading…</string>
+    <string name="android_start_title">System is starting…</string>
+    <string name="wifi_available_sign_in">Вхід в WLAN</string>
+    <string name="sms_short_code_confirm_message">Ви впевнені, що хочете відправити це повідомлення?</string>
+    <string name="usb_mtp_notification_title">Файли можуть бути передані за допомогою ПК</string>
+    <string name="usb_ptp_notification_title">Фотографії можуть бути передані за допомогою ПК</string>
+    <string name="usb_notification_message">Торкнiться для USB опцiй</string>
+    <string name="adb_active_notification_title">USB налагодження пiдключення</string>
+    <string name="adb_active_notification_message">Натисніть, щоб відключити налагодження USB</string>
+    <string name="select_input_method">Вибрати метод вводу</string>
+    <string name="configure_input_methods">Налаштувати спосіб введення</string>
+</resources>

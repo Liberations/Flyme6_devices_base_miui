@@ -209,7 +209,7 @@
     <string name="global_action_voice_assist">语音助理</string>
     <string name="global_action_lockdown">立即锁定</string>
     <string name="safeMode">安全模式</string>
-    <string name="android_system_label">Android 系统</string>
+    <string name="android_system_label">Flyme系统服务</string>
     <string name="user_owner_label">个人</string>
     <string name="managed_profile_label">工作</string>
     <string name="permgrouplab_contacts">通讯录</string>
@@ -738,7 +738,7 @@
     <string name="capital_off">关闭</string>
     <string name="whichApplication">选择要使用的应用</string>
     <string name="whichApplicationNamed">使用%1$s完成操作</string>
-    <string name="whichViewApplication">打开方式</string>
+    <string name="whichViewApplication">选择打开方式</string>
     <string name="whichViewApplicationNamed">使用%1$s打开</string>
     <string name="whichEditApplication">编辑方式</string>
     <string name="whichEditApplicationNamed">使用%1$s编辑</string>
@@ -756,16 +756,10 @@
     <string name="aerr_application">很抱歉，“%1$s”已停止运行。</string>
     <string name="aerr_process">抱歉，进程“%1$s”已停止运行。</string>
     <string name="anr_title" />
-    <string name="anr_activity_application">"%2$s无响应。
-
-要将其关闭吗？"</string>
-    <string name="anr_activity_process">"%1$s活动无响应。
-
-要将其关闭吗？"</string>
-    <string name="anr_application_process">%1$s无响应。要将其关闭吗？</string>
-    <string name="anr_process">"%1$s进程无响应。
-
-要将其关闭吗？"</string>
+    <string name="anr_activity_application">%2$s无响应，要将其关闭吗？</string>
+    <string name="anr_activity_process">%1$s活动无响应，要将其关闭吗？</string>
+    <string name="anr_application_process">%1$s无响应，要将其关闭吗？</string>
+    <string name="anr_process">%1$s进程无响应，要将其关闭吗？</string>
     <string name="force_close">确定</string>
     <string name="report">报告</string>
     <string name="wait">等待</string>
@@ -780,8 +774,8 @@
     <string name="screen_compat_mode_hint">在“系统设置”>“应用”>“已下载”中重新启用此模式。</string>
     <string name="smv_application">“%1$s”应用（%2$s 进程）违反了自我强制执行的严格模式 (StrictMode) 政策。</string>
     <string name="smv_process">进程 %1$s 违反了自我强制执行的严格模式 (StrictMode) 政策。</string>
-    <string name="android_upgrading_title">Android正在升级...</string>
-    <string name="android_start_title">Android 正在启动…</string>
+    <string name="android_upgrading_title">系统正在升级...</string>
+    <string name="android_start_title">系统 正在启动…</string>
     <string name="android_upgrading_fstrim">正在优化存储空间。</string>
     <string name="android_upgrading_apk">正在优化第%1$d个应用（共%2$d个）。</string>
     <string name="android_preparing_apk">正在准备升级%1$s。</string>
@@ -819,7 +813,7 @@
     <string name="ringtone_silent">无</string>
     <string name="ringtone_picker_title">铃声</string>
     <string name="ringtone_unknown">未知铃声</string>
-    <string name="wifi_available_sign_in">登录到WLAN网络</string>
+    <string name="wifi_available_sign_in">登录到无线网络</string>
     <string name="network_available_sign_in">登录到网络</string>
     <string name="wifi_no_internet">此 WLAN 网络无法访问互联网</string>
     <string name="wifi_no_internet_detailed">触摸即可查看选项</string>
@@ -847,7 +841,7 @@
     <string name="sms_control_message">&lt;b>%1$s&lt;/b>在发送大量短信。是否允许该应用继续发送短信？</string>
     <string name="sms_control_yes">允许</string>
     <string name="sms_control_no">拒绝</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b>想要向 &lt;b>%2$s&lt;/b> 发送一条短信。</string>
+    <string name="sms_short_code_confirm_message">确定发送信息?</string>
     <string name="sms_short_code_details"><b>这可能会导致您的手机号产生费用。</b></string>
     <string name="sms_premium_short_code_details"><b>这会导致您的手机号产生费用。</b></string>
     <string name="sms_short_code_confirm_allow">发送</string>
@@ -888,15 +882,15 @@
     <string name="dlg_error_title">USB操作失败</string>
     <string name="dlg_ok">确定</string>
     <string name="usb_charging_notification_title">正在通过 USB 充电</string>
-    <string name="usb_mtp_notification_title">正在通过 USB 传输文件</string>
-    <string name="usb_ptp_notification_title">正在通过 USB 传输照片</string>
+    <string name="usb_mtp_notification_title">可通过电脑传输文件</string>
+    <string name="usb_ptp_notification_title">可通过电脑传输照片</string>
     <string name="usb_midi_notification_title">正在通过 USB 连接到 MIDI 接口</string>
     <string name="usb_accessory_notification_title">已连接到USB配件</string>
-    <string name="usb_notification_message">触摸以查看更多选项。</string>
-    <string name="adb_active_notification_title">已连接到USB调试</string>
-    <string name="adb_active_notification_message">触摸可停用USB调试。</string>
-    <string name="select_input_method">更改键盘</string>
-    <string name="configure_input_methods">选择键盘</string>
+    <string name="usb_notification_message">点击可选择其他USB连接方式</string>
+    <string name="adb_active_notification_title">已连接到 USB 调试</string>
+    <string name="adb_active_notification_message">触摸可停用USB调试</string>
+    <string name="select_input_method">选择输入法</string>
+    <string name="configure_input_methods">设置输入法</string>
     <string name="show_ime">显示输入法</string>
     <string name="hardware">硬件</string>
     <string name="select_keyboard_layout_notification_title">选择键盘布局</string>

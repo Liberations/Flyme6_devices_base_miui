@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>attendi con il dito giù</item>
+        <item>abbassa dito</item>
+        <item>alza dito</item>
+        <item>finger down timeout</item>
+        <item>per favore, posiziona il tuo dito</item>
+        <item>"per favore, utilizza un'impronta non registrata"</item>
+    </string-array>
+</resources>

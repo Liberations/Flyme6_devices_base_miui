@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>parmak aşağı bekleme</item>
+        <item>parmak aşağı</item>
+        <item>parmak yukarı</item>
+        <item>parmak aşağı zaman aşımı</item>
+        <item>Lütfen parmağınızı ayarlayın</item>
+        <item>Lütfen kayıtlı olmayan parmağı koyun</item>
+    </string-array>
+</resources>

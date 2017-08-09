@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Dịch vụ hệ thống</string>
+    <string name="anr_activity_application">%2$s không phản hồi, bạn có muốn đóng nó?</string>
+    <string name="anr_activity_process">Hoạt động %1$s không phản hồi, bạn có muốn đóng nó?</string>
+    <string name="anr_application_process">%1$s không phản hồi, tắt nó?</string>
+    <string name="anr_process">Tiến trình %1$s không phản hồi, bạn có muốn đóng nó?</string>
+    <string name="android_upgrading_title">Hệ thống đang nâng cấp…</string>
+    <string name="android_start_title">Hệ thống đang khởi động…</string>
+    <string name="wifi_available_sign_in">Đăng nhập vào WLAN</string>
+    <string name="sms_short_code_confirm_message">Đã gửi tin nhắn?</string>
+    <string name="usb_mtp_notification_title">Truyền tải tập tin qua cáp</string>
+    <string name="usb_ptp_notification_title">Ảnh có thể được truyền tải thông qua PC</string>
+    <string name="usb_notification_message">Chạm để có các tùy chọn USB khác</string>
+    <string name="adb_active_notification_title">Đã kết nối Gỡ lỗi USB</string>
+    <string name="adb_active_notification_message">Chạm để vô hiệu hóa gỡ lỗi USB.</string>
+    <string name="select_input_method">Chọn phương pháp nhập liệu</string>
+    <string name="configure_input_methods">Thiết lập phương pháp nhập liệu</string>
+</resources>

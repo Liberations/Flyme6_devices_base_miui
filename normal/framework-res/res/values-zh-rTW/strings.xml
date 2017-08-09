@@ -206,7 +206,7 @@
     <string name="global_action_voice_assist">語音小幫手</string>
     <string name="global_action_lockdown">立即鎖定</string>
     <string name="safeMode">安全模式</string>
-    <string name="android_system_label">Android 系統</string>
+    <string name="android_system_label">Flyme 系統服務</string>
     <string name="user_owner_label">個人</string>
     <string name="managed_profile_label">公司</string>
     <string name="permgrouplab_contacts">聯絡人</string>
@@ -735,7 +735,7 @@
     <string name="capital_off">關閉</string>
     <string name="whichApplication">選擇要使用的應用程式</string>
     <string name="whichApplicationNamed">完成操作需使用 %1$s</string>
-    <string name="whichViewApplication">選擇開啟工具</string>
+    <string name="whichViewApplication">選擇打開方式</string>
     <string name="whichViewApplicationNamed">透過 %1$s 開啟</string>
     <string name="whichEditApplication">選擇編輯工具</string>
     <string name="whichEditApplicationNamed">使用 %1$s 編輯</string>
@@ -753,16 +753,10 @@
     <string name="aerr_application">很抱歉，%1$s已停止運作。</string>
     <string name="aerr_process">很抱歉，處理任務 %1$s 已停止。</string>
     <string name="anr_title" />
-    <string name="anr_activity_application">"%2$s 沒有回應。
-
-您要結束嗎？"</string>
-    <string name="anr_activity_process">"%1$s 活動沒有回應。
-
-您要結束嗎？"</string>
-    <string name="anr_application_process">%1$s 沒有回應。您要結束嗎？</string>
-    <string name="anr_process">"%1$s 處理任務沒有回應。
-
-您要結束嗎？"</string>
+    <string name="anr_activity_application">%2$s 無回應。您要結束嗎？</string>
+    <string name="anr_activity_process">%1$s 活動無回應。你要關閉嗎？</string>
+    <string name="anr_application_process">%1$s 無回應，要將其關閉嗎？</string>
+    <string name="anr_process">%1$s 處理程序無回應。您要關閉嗎？</string>
     <string name="force_close">確定</string>
     <string name="report">回報</string>
     <string name="wait">等待</string>
@@ -777,8 +771,8 @@
     <string name="screen_compat_mode_hint">前往 [系統設定] > [應用程式] > [下載] 重新啟用這個模式。</string>
     <string name="smv_application">應用程式 %1$s (處理任務 %2$s) 已違反其自行強制實施的嚴格模式 (StrictMode) 政策。</string>
     <string name="smv_process">處理任務 %1$s 已違反其自行強制實施的嚴格模式 (StrictMode) 政策。</string>
-    <string name="android_upgrading_title">正在升級 Android…</string>
-    <string name="android_start_title">Android 正在啟動…</string>
+    <string name="android_upgrading_title">系統正在升級…</string>
+    <string name="android_start_title">系統 正在啟動…</string>
     <string name="android_upgrading_fstrim">正在對儲存空間進行最佳化處理。</string>
     <string name="android_upgrading_apk">正在最佳化第 %1$d 個應用程式 (共 %2$d 個)。</string>
     <string name="android_preparing_apk">正在準備升級「%1$s」。</string>
@@ -816,7 +810,7 @@
     <string name="ringtone_silent">無</string>
     <string name="ringtone_picker_title">鈴聲</string>
     <string name="ringtone_unknown">未知的鈴聲</string>
-    <string name="wifi_available_sign_in">登入 WLAN 網路</string>
+    <string name="wifi_available_sign_in">登入到 Wi-Fi</string>
     <string name="network_available_sign_in">登入網路</string>
     <string name="wifi_no_internet">WLAN 網路沒有網際網路連線</string>
     <string name="wifi_no_internet_detailed">輕觸即可顯示選項</string>
@@ -844,7 +838,7 @@
     <string name="sms_control_message">&lt;b>&lt;/b>「%1$s」正在傳送大量簡訊。您要允許這個應用程式繼續傳送簡訊嗎？</string>
     <string name="sms_control_yes">允許</string>
     <string name="sms_control_no">拒絕</string>
-    <string name="sms_short_code_confirm_message">&lt;b>%1$s&lt;/b> 要求將訊息傳送至 &lt;b>%2$s&lt;/b>。</string>
+    <string name="sms_short_code_confirm_message">確認傳送訊息？</string>
     <string name="sms_short_code_details">這<b>可能會透過您的行動帳戶計費</b>。</string>
     <string name="sms_premium_short_code_details"><b>這會透過您的行動帳戶計費。</b></string>
     <string name="sms_short_code_confirm_allow">傳送</string>
@@ -885,15 +879,15 @@
     <string name="dlg_error_title">USB 操作失敗</string>
     <string name="dlg_ok">確定</string>
     <string name="usb_charging_notification_title">正在透過 USB 充電</string>
-    <string name="usb_mtp_notification_title">USB 檔案傳輸</string>
-    <string name="usb_ptp_notification_title">USB 相片傳輸</string>
+    <string name="usb_mtp_notification_title">"透過電腦傳輸檔案 "</string>
+    <string name="usb_ptp_notification_title">透過電腦傳輸相片</string>
     <string name="usb_midi_notification_title">USB MIDI</string>
     <string name="usb_accessory_notification_title">已連接 USB 配件</string>
-    <string name="usb_notification_message">輕觸即可顯示更多選項。</string>
-    <string name="adb_active_notification_title">已連接 USB 偵錯工具</string>
-    <string name="adb_active_notification_message">輕觸即可停用 USB 偵錯。</string>
-    <string name="select_input_method">變更鍵盤</string>
-    <string name="configure_input_methods">選擇鍵盤</string>
+    <string name="usb_notification_message">點選即可顯示其他 USB 選項</string>
+    <string name="adb_active_notification_title">已連接 USB 偵錯</string>
+    <string name="adb_active_notification_message">輕觸即可停用 USB 偵錯</string>
+    <string name="select_input_method">選擇輸入法</string>
+    <string name="configure_input_methods">設定輸入法</string>
     <string name="show_ime">顯示輸入法</string>
     <string name="hardware">硬體</string>
     <string name="select_keyboard_layout_notification_title">選取鍵盤配置</string>

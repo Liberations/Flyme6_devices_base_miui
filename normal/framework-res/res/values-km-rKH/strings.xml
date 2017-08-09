@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">សេវាប្រព័ន្ធ Flyme</string>
+    <string name="anr_activity_application">%2$s មិនមានការឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+    <string name="anr_activity_process">សកម្មភាព %1$sមិនឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+    <string name="anr_application_process">%1$s មិនមានការឆ្លើយតប បិទវាឬ?</string>
+    <string name="anr_process">ដំណើរការ %1$s មិនឆ្លើយតប តើអ្នកចង់បិទវាទេ?</string>
+    <string name="android_upgrading_title">ប្រព័ន្ធ​កំពុង​ដំឡើង​វើសហ្សឹន​…</string>
+    <string name="android_start_title">ប្រព័ន្ធកំពុងចាប់ផ្តើម…</string>
+    <string name="wifi_available_sign_in">ចូលក្នុងបណ្តាញ WLAN</string>
+    <string name="sms_short_code_confirm_message">បានផ្ញើសារ?</string>
+    <string name="usb_mtp_notification_title">ឯកសារអាចផ្ទេរតាមរយៈខ្សែ​</string>
+    <string name="usb_ptp_notification_title">អាចបញ្ជូនរូបថតតាមរយៈកុំព្យូទ័រផ្ទាល់ខ្លួនបាន</string>
+    <string name="usb_notification_message">ចុចសម្រាប់ជ្រើសរើស USB ផ្សេងទៀត</string>
+    <string name="adb_active_notification_title">ការកែតម្រូវកំហុសនៃUSB ត្រូវបានភ្ជាប់</string>
+    <string name="adb_active_notification_message">ប៉ះដើម្បី​បិទការបំបាត់កំហុស​ USB</string>
+    <string name="select_input_method">ជ្រើសវិធីសាស្ត្រ​នៃធាតុចូល</string>
+    <string name="configure_input_methods">កំណត់វិធីបញ្ចូលទិន្នន័យ</string>
+</resources>

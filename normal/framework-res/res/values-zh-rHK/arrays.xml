@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>等待手指按下</item>
+        <item>手指按下</item>
+        <item>手指抬起</item>
+        <item>手指按下逾時</item>
+        <item>請稍稍移動手指</item>
+        <item>請使用還沒有錄入的手指</item>
+    </string-array>
+</resources>

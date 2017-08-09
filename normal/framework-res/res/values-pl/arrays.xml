@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>poczekaj, trzymając palec przyłożony</item>
+        <item>przytrzymaj palec</item>
+        <item>zabierz palec</item>
+        <item>przekroczenie czasu przytrzymywania palca</item>
+        <item>dopasuj ułożenie palca</item>
+        <item>przyłóż niezarejestrowany palec</item>
+    </string-array>
+</resources>

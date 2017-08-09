@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>Várakozás ujj lenn</item>
+        <item>ujj lent</item>
+        <item>Ujj fent</item>
+        <item>finger nem működik időtúllépés</item>
+        <item>kérem állítsa be az ujját</item>
+        <item>tegye a nem feljegyzett ujjat</item>
+    </string-array>
+</resources>

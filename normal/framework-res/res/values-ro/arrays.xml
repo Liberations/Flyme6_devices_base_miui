@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>menţineţi degetul aşezat</item>
+        <item>aşezaţi degetul</item>
+        <item>ridicaţi degetul</item>
+        <item>expirare timp introducere amprentă</item>
+        <item>ajustaţi poziţia degetului dvs.</item>
+        <item>aşezaţi un deget neînrolat</item>
+    </string-array>
+</resources>

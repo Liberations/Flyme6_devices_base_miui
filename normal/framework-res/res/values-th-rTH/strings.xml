@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">บริการระบบ Flyme</string>
+    <string name="anr_activity_application">%2$s ไม่ตอบสนอง คุณต้องการปิดหรือไม่?</string>
+    <string name="anr_activity_process">กิจกรรม %1$s ไม่ตอบสนอง คุณต้องการปิดหรือไม่?</string>
+    <string name="anr_application_process">%1$s ไม่ตอบสนอง ปิดใช้งานหรือไม่?</string>
+    <string name="anr_process">กระบวนการ %1$s ไม่ตอบสนอง คุณต้องการปิดหรือไม่?</string>
+    <string name="android_upgrading_title">กำลังอัพเกรดระบบ…</string>
+    <string name="android_start_title">กำลังเริ่มใช้งานระบบ…</string>
+    <string name="wifi_available_sign_in">เข้าสู่ระบบ WLAN</string>
+    <string name="sms_short_code_confirm_message">ส่งข้อความหรือไม่?</string>
+    <string name="usb_mtp_notification_title">การถ่ายโอนไฟล์ผ่านสายเคเบิล</string>
+    <string name="usb_ptp_notification_title">ไม่สามารถส่งต่อภาพผ่าน PC ได้</string>
+    <string name="usb_notification_message">สัมผัสตัวเลือก USB อื่นๆ</string>
+    <string name="adb_active_notification_title">เชื่อมต่อการแก้ไขจุดบกพร่องผ่าน USB แล้ว</string>
+    <string name="adb_active_notification_message">สัมผัสเพื่อปิดการใช้งานการแก้ไขจุดบกพร่อง USB</string>
+    <string name="select_input_method">เลือกวิธีป้อนข้อมูล</string>
+    <string name="configure_input_methods">ตั้งค่าวิธีการป้อนข้อมูล</string>
+</resources>

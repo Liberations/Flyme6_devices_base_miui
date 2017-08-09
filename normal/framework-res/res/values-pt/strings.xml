@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">Serviço do sistema Flyme</string>
+    <string name="anr_activity_application">%2$s não está a responder. Pretende fechá-lo?</string>
+    <string name="anr_activity_process">A atividade %1$s não está a responder. Pretende fechá-la?</string>
+    <string name="anr_application_process">%1$s não está a responder. Encerrar?</string>
+    <string name="anr_process">O processo %1$s não está a responder. Pretende fechá-lo?</string>
+    <string name="android_upgrading_title">O sistema está a atualizar…</string>
+    <string name="android_start_title">O sistema está a iniciar…</string>
+    <string name="wifi_available_sign_in">Iniciar sessão a WLAN</string>
+    <string name="sms_short_code_confirm_message">Enviar a mensagem?</string>
+    <string name="usb_mtp_notification_title">Ficheiros transferidos por cabo</string>
+    <string name="usb_ptp_notification_title">As fotografias podem ser transferidas através do PC</string>
+    <string name="usb_notification_message">Toque para obter outras opções USB.</string>
+    <string name="adb_active_notification_title">Depuração USB ligada</string>
+    <string name="adb_active_notification_message">Toque para desativar a depuração de erros do USB</string>
+    <string name="select_input_method">Selecionar o método de introdução</string>
+    <string name="configure_input_methods">Definir métodos de introdução</string>
+</resources>

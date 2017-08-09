@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>விரலைக் கீழே வைக்கக் காத்திருக்கவும்</item>
+        <item>விரலைக் கீழே வைத்தல்</item>
+        <item>விரலை மேலே எடுத்தல்</item>
+        <item>விரலைக் கீழே வைப்பதற்கான நேரம் நிறைவடைந்துவிட்டது</item>
+        <item>தயவுசெய்து உங்கள் விரலைச் சரி செய்யவும்</item>
+        <item>தயவுசெய்து, பதிவுசெய்யப்படாத விரலை வைக்கவும்</item>
+    </string-array>
+</resources>

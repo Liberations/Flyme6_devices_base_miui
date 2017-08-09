@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available">
+        <item quantity="other">WLAN ရရွိႏိုင္သည္</item>
+        <item quantity="one">WLAN ရရွိႏိုင္သည္</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">WLAN ရရွိႏိုင္မႈကို ၾကည့္႐ႈပါ</item>
+        <item quantity="one">WLAN ရရွိႏိုင္မႈကို ၾကည့္႐ႈပါ</item>
+    </plurals>
+</resources>

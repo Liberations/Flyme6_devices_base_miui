@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fingerprint_acquired_vendor">
+        <item></item>
+        <item>chờ nhấn ngón tay xuống</item>
+        <item>nhấn ngón tay xuống</item>
+        <item>nhấc ngón tay lên</item>
+        <item>thời gian chờ nhấn ngón tay xuống</item>
+        <item>vui lòng điều chỉnh ngón tay bạn</item>
+        <item>hãy đặt ngón tay chưa được đăng ký</item>
+    </string-array>
+</resources>

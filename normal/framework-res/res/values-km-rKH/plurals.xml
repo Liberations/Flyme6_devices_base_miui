@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="wifi_available">
+        <item quantity="other">មានបណ្តាញ WLAN</item>
+        <item quantity="one">មានបណ្តាញ WLAN</item>
+    </plurals>
+    <plurals name="wifi_available_detailed">
+        <item quantity="other">បើលមើលបណ្តាញ WLAN ដែលមាន</item>
+        <item quantity="one">បើលមើលបណ្តាញ WLAN ដែលមាន</item>
+    </plurals>
+</resources>

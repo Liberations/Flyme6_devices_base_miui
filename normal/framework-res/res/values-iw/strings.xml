@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="android_system_label">שרות מערכת של Flyme</string>
+    <string name="anr_activity_application">%2$s אינו מגיב, לסגור את היישום?</string>
+    <string name="anr_activity_process">היישום %1$s לא מגיב, לסגור?</string>
+    <string name="anr_application_process">%1$s לא מגיב, לסגור יישום?</string>
+    <string name="anr_process">התהליך %1$s לא מגיב, לסגור אותו?</string>
+    <string name="android_upgrading_title">המכשיר בשדרוג תוכנה…</string>
+    <string name="android_start_title">המכשיר בעלייה…</string>
+    <string name="wifi_available_sign_in">התחבר ל-WLAN</string>
+    <string name="usb_mtp_notification_title">ניתן להעביר קבצים באמצעות מחשב PC</string>
+    <string name="usb_ptp_notification_title">ניתן להעביר תמונות באמצעות מחשב PC</string>
+    <string name="usb_notification_message">גע לאפשרויות USB נוספות</string>
+    <string name="adb_active_notification_title">איתור באגים של USB מחובר</string>
+    <string name="adb_active_notification_message">תגע כדי להשבית ניפוי USB.</string>
+    <string name="select_input_method">בחר מקלדת</string>
+    <string name="configure_input_methods">קבע מקלדת</string>
+</resources>
